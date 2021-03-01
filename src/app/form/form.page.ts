@@ -25,6 +25,8 @@ export class FormPage implements OnInit {
     private router: Router
   ) { }
 
+
+  //Demo Added
   ngOnInit() {
     //  We just use a few random countries, however, you can use the countries you need by just adding them to this list.
     // also you can use a library to get all the countries from the world.
