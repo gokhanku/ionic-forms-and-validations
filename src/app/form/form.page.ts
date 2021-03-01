@@ -26,6 +26,7 @@ export class FormPage implements OnInit {
   ) { }
 
 
+  //Demo no comment
   //Demo Added
   ngOnInit() {
     //  We just use a few random countries, however, you can use the countries you need by just adding them to this list.
