@@ -29,7 +29,7 @@ export class FormPage implements OnInit {
 
   test(){
 
-    return "Demo"
+    return "Demo 1"
 
   }
 
